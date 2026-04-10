@@ -1,7 +1,4 @@
-import os
-
-# Content for the README.md file based on the previous interaction and user context
-readme_content = """# Hi there, I'm Christy! 👋
+# Hi there, I'm Christy! 👋
 
 I am a **Web Developer and UI/UX Designer** dedicated to building high-performance, conversion-driven digital experiences. I specialize in bridging the gap between aesthetic design systems and functional code to create web applications that deliver measurable results.
 
@@ -41,25 +38,8 @@ When I’m not in a code editor or Figma, I’m usually:
 
 ---
 
-### 📈 GitHub Stats
-
-![Christy's Stats](https://github-readme-stats.vercel.app/api?username=ChristyMontejo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristyMontejo&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 
 * **Portfolio:** [YourLinkHere.com]
 * **LinkedIn:** [YourLinkedInProfile]
-* **Email:** [YourEmail@example.com]
-"""
-
-# Define the file name
-file_name = "github-profile-readme-christymontejo.md"
-
-# Write the content to a file
-with open(file_name, "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-print(f"File {file_name} has been created.")
+* **Email:** [christymontejo2003@gmail.com]
