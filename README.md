@@ -40,6 +40,6 @@ When I’m not in a code editor or Figma, I’m usually:
 
 ### 📫 Let's Connect
 
-* **Portfolio:** [YourLinkHere.com]
-* **LinkedIn:** [YourLinkedInProfile]
+* **Portfolio:** [In-Progress]
+* **LinkedIn:** [christymontejo2003@gmail.com]
 * **Email:** [christymontejo2003@gmail.com]
